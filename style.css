@@ -1,0 +1,194 @@
+body{
+    position: relative;
+    width: 1440px;
+    height: 780px;
+    margin: 0px;
+    background: #FFFFFF;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+#backgroud{
+
+   /* background */
+
+
+position: absolute;
+width: 720px;
+height: 780px;
+left: -9px;
+top: 0px;
+
+/* Black */
+
+background: #121214;
+}
+.readNews{
+    position: absolute;
+    width: 1175px;
+    height: 900px;
+    left: 376px;
+    top: 0px;
+    z-index: -1px;
+    
+}
+.imagem{/*logo*/
+    position: absolute;
+    width: 389px;
+    height: 94px;
+    left: 30px;
+    top: 50px;
+    
+}
+
+.text h1{
+    position: absolute;
+width: 566px;
+height: 30.44px;
+left: 36px;
+top: 236px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 28px;
+
+/* Green */
+
+color: #08C05E;
+}
+.subtitulo{
+    position: absolute;
+width: 517px;
+height: 16px;
+left: 36px;
+top: 275px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 16px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+.paragrafo{
+    position: absolute;
+    width: 647px;
+    height: 38px;
+    left: 36px;
+    top: 300px;
+    
+    font-family: 'Spartan';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    
+    color: #FFFFFF;
+}
+
+.input{
+    position: absolute;
+    width: 798px;
+    height: 48px;
+    left: 36px;
+    top: 424px;
+    z-index: -10px;
+    
+    filter: drop-shadow(4px 10px 15px rgba(0, 0, 0, 0.5));
+}
+
+
+
+
+
+
+
+body{
+    background-color: black;
+}
+.retangulo3{
+    position: absolute;
+width: 50px;
+height: 50px;
+left: 785px;
+top: 423px;
+
+justify-content: center;
+align-items: center;
+display: flex;
+color: white;
+background: #8257E5;
+}
+/* .retangulo2{
+    position: absolute;
+width: 750px;
+height: 50px;
+left: 35px;
+top: 423px;
+
+background: #FFFFFF;
+} */
+.retangulo4{
+    position: absolute;
+width: 5px;
+height: 50px;
+left: 34px;
+top: 423px;
+
+background: #04D361;
+}
+#email{
+    position: absolute;
+    width: 745px;
+    height: 45px;
+    left: 35px;
+    top: 423px;
+filter: drop-shadow(4px 10px 15px rgba(0, 0, 0, 0.5));
+}
+
+.send{
+    background-color: transparent;
+    border: none;
+}
+
+
+
+
+.arrow{
+    display: flex;
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 170px;
+    top: 510px;
+
+}
+.link{
+    display: flex;
+    position: absolute;
+    width: 167px;
+    height: 19px;
+    left: 36px;
+    top: 499px;
+    
+    font-family: 'Spartan';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 138.73%;
+    /* or 19px */
+    
+    
+    /* Purple */
+    
+    color: #8257E5;
+}
+.linka{
+    display: flex;
+    justify-content: center;
+}
